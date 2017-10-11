@@ -1,0 +1,20 @@
+{
+  "name": "v8v4853410",
+  "description": null,
+  "version": "0.0.9",
+  "dependencies": {
+    "reactstrap": "4.8.0",
+    "react-transition-group": "2.2.0",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
